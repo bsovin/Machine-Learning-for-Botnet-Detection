@@ -9,3 +9,6 @@ The flow generator may be found by the link: https://www.researchgate.net/public
 It retrieves more than 80 columns from *.PCAP files and converts them to *.CSV files. 
 
 The mentioned *.CSV files used as end-files by the program.
+
+Values that used for results validation are Accurracy, Prescision, Recall, and F1-Score. Also, a confusion matrix used to determine False Positive/Negative, True Positive/Negative rate.
+Results illustrated in Results.zip file.
