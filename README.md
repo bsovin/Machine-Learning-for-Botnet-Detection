@@ -1,6 +1,4 @@
 # Machine-Learning-for-Botnet-Detection
-\
-\
 This folder includes Jupyter Notebooks sheets with implemented Machine Learning methods K-Nearest Neighbors, Naїve Bayes, and Decision Trees. The algorithms used for the detection of network-based botnets.
 \
 A dataset used may be found by the link: http://205.174.165.80/CICDataset/ISCX-Bot-2014/Dataset/
